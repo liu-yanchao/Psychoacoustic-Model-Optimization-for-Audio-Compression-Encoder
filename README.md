@@ -7,8 +7,8 @@ The original version was written in 2002 as a school project.
 [Click here to view the original report](http://perceptualentropy.com/coder.html)
 
 I recently made some improvements that improve the audio quality.
-We analyzed the masking function implementation, applied a more suitable masking function by lower the overall gain and adjust the spreading function.
-We also applied an temporal masking to the encoder. It will abandon the components that will not be heard by human ear because of simoutaneous masking. 
+I analyzed the masking function implementation, applied a more suitable masking function by lower the overall gain and adjust the spreading function.
+I also applied an temporal masking to the encoder. It will abandon the components that will not be heard by human ear because of simoutaneous masking. 
 Listen to some samples below:
 
 ## Audio Examples
